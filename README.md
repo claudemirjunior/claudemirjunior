@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Claudemri Júnior 
 
-
-- 🔭 Almejo trabalhar com back-end 
-- 🌱 Estudando Linguagem de programação Java 
+- 🌱 Estudante de front-end
 
 <div align="center">
   <a href="https://github.com/claudemirjunior">
